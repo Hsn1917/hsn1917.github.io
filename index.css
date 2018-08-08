@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
-    border-right-color: azure;    /*this is a secondary option */
+    border-right-color: rgb(193, 197, 143);    /*this is a secondary option */
 }
 
 ul {
@@ -24,7 +24,7 @@ ul li {
 }
 ul li a { 
     text-decoration: none;
-    color: orange;
+    color: yellow;
     display: block;
 
 }
